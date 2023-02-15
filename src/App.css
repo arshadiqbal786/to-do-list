@@ -1,0 +1,39 @@
+div[name="todotext"] {
+  margin-bottom: 0px;
+  
+}
+body{
+  background-color: light grey;
+}
+
+.App {
+  margin-top: 25px;
+}
+
+.ant-btn {
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+h2,
+h3,
+h4 {
+  text-align: center;
+}
+
+span[role="img"] {
+  color: blue;
+}
+
+.true {
+  text-decoration: line-through;
+}
+
+.hideaction {
+  display: none;
+}
+
+.CalendarLabel,
+.TitleLength {
+  margin-left: 50px;
+}
